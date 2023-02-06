@@ -44,7 +44,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 ## Install
 
     $ git clone https://github.com/debapriya36/Smoothie-King.git
-    $ cd 
+    $ npm install
     $ yarn install
 
 ## Configure app
