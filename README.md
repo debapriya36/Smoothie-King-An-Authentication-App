@@ -3,8 +3,11 @@
 
 ## project screenshots : 
 ## Requirements![Screenshot (54)](https://user-images.githubusercontent.com/77222446/216944830-ee66d3e9-178a-40d9-a790-905410859b77.png)
----
+![Screenshot (52)](https://user-images.githubusercontent.com/77222446/216945092-493901f6-4461-445c-b208-143537440c0e.png)
 
+
+
+---
 
 
 For development, you will only need Node.js and a node global package, Yarn, installed in your environement.
