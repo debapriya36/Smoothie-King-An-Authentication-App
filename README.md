@@ -1,7 +1,11 @@
 # Smoothie-King
 ~A MilkShake Bar
+
+## project screenshots : 
+## Requirements![Screenshot (54)](https://user-images.githubusercontent.com/77222446/216944830-ee66d3e9-178a-40d9-a790-905410859b77.png)
 ---
-## Requirements
+
+
 
 For development, you will only need Node.js and a node global package, Yarn, installed in your environement.
 
